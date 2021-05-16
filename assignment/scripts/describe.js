@@ -53,7 +53,7 @@ if (name === 'Mary') {
 // of the variable code by 2 making the value of code 246.
 // We check to see if the value of code is greater than 250.
 // The value of code is 246 which is less than 250, so we DO NOT run the CODE
-// in the if statement. The console logs the string super.
+// in the if statement. The console logs the string 'super'.
 
 //CODE
 /*
